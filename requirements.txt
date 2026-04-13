@@ -1,5 +1,6 @@
-flask
-flask-cors
-firebase-admin
-google-generativeai
-gunicorn
+flask==3.0.3
+flask-cors==4.0.0
+firebase-admin==6.5.0
+google-generativeai==0.4.1
+requests==2.31.0
+gunicorn==21.2.0
